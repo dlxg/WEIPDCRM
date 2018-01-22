@@ -3,43 +3,6 @@
 <meta charset="UTF-8" />
 <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
 <title>DCRM - 帮助手册</title>
-<style>
-body{
-	background-color: #eee;
-	font-size: small;
-	font-family: "PingFang SC", "苹方-简", "Hiragino Sans GB", "冬青黑体简体中文", STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", "黑体", "Helvetica Neue", Helvetica, Arial;
-}
-h3{
-	background-color:#ddd;
-	border-top:1px solid #888;
-	border-left:0.5em solid #888;
-	padding:0.2em 0.5em;
-}
-h4{
-	border-top:1px solid #888;
-	border-left:0.4em solid #888;
-	padding:0.2em 0.5em;
-}
-.lv{
-	margin: 1em 0em 3em 2em;
-}
-ol,ul{
-	margin:0;padding:0; margin-left:1.5em;
-}
-li{
-	padding:0.5em 0em;
-}
-
-.box, .pbox{
- color:#222;
- border:1px dotted #aaa;
- margin:0.5em;
- padding:0.5em;
-}
-.pbox{
- white-space:nowrap;
-}
-</style>
 </head>
 <body>
 <h1>Darwin Cydia Repository Manager (DCRM) Pro Guide</h1>
