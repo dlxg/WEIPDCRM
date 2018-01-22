@@ -5,7 +5,7 @@
 </head>
 <body>
 <h1>Darwin Cydia Repository Manager (DCRM) Pro Guide</h1>
-<h2>DCRM Pro 帮助手册 - 简体中文</h2>
+<h2>DCRM 1.7 Pro 帮助手册 - 简体中文</h2>
 <h3>欢迎</h3>
 <div class="lv">
 	<p>
