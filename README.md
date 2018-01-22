@@ -2,7 +2,6 @@
 <html lang="ja"><head>
 <meta charset="UTF-8" />
 <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
-<title>DCRM - 帮助手册</title>
 </head>
 <body>
 <h1>Darwin Cydia Repository Manager (DCRM) Pro Guide</h1>
